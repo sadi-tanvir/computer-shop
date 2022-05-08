@@ -6,7 +6,7 @@ const About = () => {
   return (
     <>
       <div className="w-full flex justify-center items-center mt-10">
-        <div className="w-6/12 shadow-lg hover:shadow-xl flex px-4 py-10">
+        <div className="w-6/12 shadow-2xl hover:shadow-xl flex px-4 py-10">
           <div className="flex flex-col justify-center items-center">
             <img className="w-36 rounded-lg" src="/img/profile.jpg" alt="" />
             <div className="mt-5">
