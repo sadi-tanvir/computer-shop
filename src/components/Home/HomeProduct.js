@@ -7,7 +7,7 @@ const ProductHome = () => {
     <>
       <section className="w-full flex justify-center items-center mt-14">
         <div className="w-11/12 grid grid-cols-12">
-          <div className="col-span-7">
+          <div className="col-span-12 md:col-span-7">
             <h1 className="text-5xl text-red-800 font-bold uppercase">
               Your next laptop <br />
               <span className="text-slate-800">Your best laptop</span>
@@ -21,7 +21,7 @@ const ProductHome = () => {
                 Live demo
             </button>
           </div>
-          <div className="col-span-5 -mt-10">
+          <div className="col-span-12 md:col-span-5 mt-20 md:-mt-10">
             <img src="./img/laptop.jpg" alt="laptop" />
           </div>
         </div>

@@ -8,7 +8,7 @@ const Reviews = () => {
     return (
         <>
             <div className="w-full flex justify-center items-center">
-            <div className="w-8/12 grid grid-cols-3 gap-4 my-5">
+            <div className="w-11/12 md:w-8/12 grid grid-cols-2 md:grid-cols-3 gap-4 my-5">
           {reviews.map((review, index) => (
             <ReviewCard
               key={index}

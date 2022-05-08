@@ -6,8 +6,8 @@ import MonthDetect from "./Chart/MonthDetect";
 const DashBoard = () => {
   return (
     <>
-      <div className="w-full flex justify-center items-center mt-20">
-        <div className="w-11/12 grid grid-cols-2 gap-x-16">
+      <div className="w-full flex justify-center items-center mt-20 mb-10">
+        <div className="w-11/12 grid grid-cols-1 md:grid-cols-2 gap-y-16 md:gap-y-0 md:gap-x-16">
           {/* chart 1 */}
           <div className="flex flex-col justify-center items-center shadow-md hover:shadow-xl">
             <h2 className="text-xl font-bold text-cyan-800 text-center">

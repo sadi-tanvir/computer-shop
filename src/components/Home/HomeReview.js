@@ -14,7 +14,7 @@ const HomeReview = () => {
           Customer Reviews (6)
         </h3>
 
-        <div className="w-8/12 grid grid-cols-3 gap-x-4 my-5 mb-14">
+        <div className="md:w-8/12 grid grid-cols-2 md:grid-cols-3 gap-x-4 px-2 md:px-0 my-5 mb-14">
           {reviews.map((review, index) => (
             <ReviewCard
               key={index}
