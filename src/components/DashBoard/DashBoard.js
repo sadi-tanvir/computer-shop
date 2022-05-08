@@ -11,7 +11,7 @@ const DashBoard = () => {
           {/* chart 1 */}
           <div className="flex flex-col justify-center items-center shadow-md hover:shadow-xl">
             <h2 className="text-xl font-bold text-cyan-800 text-center">
-              Monthly Sales Analysis
+              Investment VS Revenue
             </h2>
             <Areachart />
           </div>

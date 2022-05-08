@@ -1,15 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import { useReviews } from "../../hooks/useReviews";
-
 import ReviewCard from "../Review/ReviewCard";
 
 const HomeReview = () => {
   const [reviews, setReviews] = useReviews();
   reviews.splice(3);
+
   return (
     <>
-      <section className="w-full flex flex-col justify-center items-center my-14">
+      <section className="w-full flex flex-col justify-center items-center my-14 mt-36">
         <h3 className="text-3xl font-semibold text-center">
           Customer Reviews (6)
         </h3>
