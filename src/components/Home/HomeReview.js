@@ -20,7 +20,7 @@ const HomeReview = () => {
               key={index}
               name={review.name}
               img={review.img}
-              comment={review.comment}
+              comment="text-yellow-500"
               rating_1={review.rating_1}
               rating_2={review.rating_2}
               rating_3={review.rating_3}
