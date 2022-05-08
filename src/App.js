@@ -5,6 +5,7 @@ import Home from "./components/Home/Home";
 import Reviews from "./components/Review/Reviews";
 import DashBoard from "./components/DashBoard/DashBoard";
 import Error404 from "./components/404/Error404";
+import About from "./components/About/About";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
         <Route path="/" element={<Home />} />
         <Route path="/reviews" element={<Reviews />} />
         <Route path="/dashboard" element={<DashBoard />} />
+        <Route path="/about" element={<About />} />
         <Route path="*" element={<Error404 />} />
       </Routes>
     </div>
