@@ -1,0 +1,62 @@
+[
+    {
+        "name": "soliman khan",
+        "img" : "/img/review/person-1.jpg",
+        "comment":"there product quality always good",
+        "rating_1":"text-yellow-500",
+        "rating_3":"text-yellow-500",
+        "rating_2":"text-yellow-500",
+        "rating_4":"text-yellow-500",
+        "rating_5":"text-yellow-500"
+    },
+    {
+        "name": "mofiz ali",
+        "img" : "/img/review/person-2.jpg",
+        "comment":"i hope it will be good for everyone ",
+        "rating_1":"text-yellow-500",
+        "rating_3":"text-yellow-500",
+        "rating_2":"text-yellow-500",
+        "rating_4":"text-yellow-500",
+        "rating_5":""
+    },
+    {
+        "name": "mahmud hasan",
+        "img" : "/img/review/person-3.jpg",
+        "comment":"this is good product",
+        "rating_1":"text-yellow-500",
+        "rating_3":"text-yellow-500",
+        "rating_2":"text-yellow-500",
+        "rating_4":"",
+        "rating_5":""
+    },
+    {
+        "name": "tanvir hossain",
+        "img" : "/img/review/person-4.jpg",
+        "comment":"there laptop is always unique",
+        "rating_1":"text-yellow-500",
+        "rating_3":"text-yellow-500",
+        "rating_2":"text-yellow-500",
+        "rating_4":"text-yellow-500",
+        "rating_5":"text-yellow-500"
+    },
+    {
+        "name": "sobuj mia",
+        "img" : "/img/review/person-5.jpg",
+        "comment":"it will be best sell",
+        "rating_1":"text-yellow-500",
+        "rating_3":"text-yellow-500",
+        "rating_2":"text-yellow-500",
+        "rating_4":"",
+        "rating_5":""
+    },
+    {
+        "name": "riyad hossain",
+        "img" : "/img/review/person-6.jpg",
+        "comment":"they are trustable organization",
+        "rating_1":"text-yellow-500",
+        "rating_3":"text-yellow-500",
+        "rating_2":"text-yellow-500",
+        "rating_4":"text-yellow-500",
+        "rating_5":"text-yellow-500"
+    }
+]
