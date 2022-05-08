@@ -4,7 +4,7 @@ import ReviewCard from './ReviewCard';
 
 const Reviews = () => {
     const [reviews, setReviews] = useReviews()
-    console.log(reviews);
+    
     return (
         <>
             <div className="w-full flex justify-center items-center">
