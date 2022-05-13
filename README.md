@@ -11,3 +11,4 @@
 2. The recharts Library has been used to display charts
 3. Font Awesome icons have been used to show social media icon
 4. I have added About Route for exploring myself
+5. 
